@@ -1,13 +1,13 @@
 {
   "bot-account": {
-    "username": "AFKBot", 
+    "username": "S", 
     "password": "",
     "type": "offline"
   },
 
   "server": {
-    "ip": "goats-team.aternos.me", 
-    "port": 52488,   
+    "ip": "Builders_Mc.aternos.me", 
+    "port": 34454,   
     "version": "1.12.1"   
   },
 
