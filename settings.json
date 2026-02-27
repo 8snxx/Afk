@@ -1,14 +1,14 @@
 {
   "bot-account": {
-    "username": "S", 
+    "username": "24/7", 
     "password": "",
     "type": "offline"
   },
 
   "server": {
-    "ip": "Builders_Mc.aternos.me", 
-    "port": 34454,   
-    "version": "1.12.1"   
+    "ip": "pirets.aternos.me", 
+    "port": 44849,   
+    "version": "1.12.11"   
   },
 
   "position": {
